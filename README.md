@@ -1,44 +1,22 @@
 # 👋 Hi, I'm Satinder Singh
 
-### 🎯 **Passionate Full Stack Developer**
-```javascript
-const satinder = {
-    skills: {
-        frontEnd: ["JavaScript", "React", "HTML5", "CSS3"],
-        backEnd: ["Node.js", "Python", "Django", "Flask"],
-        database: ["SQL", "NoSQL (MongoDB, Postgres)", "MS SQL"],
-        devOps: ["Git", "CI/CD", "Linux System Administration"],
-    },
-    currentFocus: ["React.js", "Next.js"],
-    lookingToCollaborateOn: ["Web Development", "Software Development"],
-    contact: {
-        email: "Yourspsinghs@gmail.com",
-        linkedIn: "https://www.linkedin.com/in/satinder-singh-510061187/",
-    },
-    codeInProduction: () => {
-        return this.skills.frontEnd.concat(this.skills.backEnd).sort();
-    }
-};
+🎯 **Passionate Full Stack Developer**  
+I specialize in building robust web applications using **JavaScript**, **React**, and **Node.js**. With a strong foundation in **database management** and **REST API integration**, I thrive on solving complex problems and delivering high-quality software solutions.
 
-console.log("Let's collaborate on building innovative web applications!");
+🌱 **Currently Exploring**  
+I'm deepening my expertise in **React.js** and diving into **Next.js** to build cutting-edge web applications with the latest technologies.
 
-# Let's build something amazing together!
-class Developer:
-    def __init__(self, name, skills, email):
-        self.name = name
-        self.skills = skills
-        self.email = email
+💼 **Looking to Collaborate**  
+I'm open to collaborating on **web or software development projects** where I can contribute my skills and learn from other professionals in the field.
 
-    def collaborate(self):
-        return f"Collaborate with {self.name} who is skilled in {', '.join(self.skills)}."
+📫 **Let's Connect**  
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/satinder-singh-510061187/) or via email at [Yourspsinghs@gmail.com](mailto:Yourspsinghs@gmail.com).
 
-satinder = Developer(
-    name="Satinder Singh",
-    skills=["JavaScript", "React", "Node.js", "Python", "SQL"],
-    email="Yourspsinghs@gmail.com"
-)
+---
 
-print(satinder.collaborate())
-
-
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
